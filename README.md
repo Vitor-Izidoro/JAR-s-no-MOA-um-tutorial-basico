@@ -57,6 +57,9 @@ moa/streams/ArffFileStream.class
 
 ```
 Por que usar um JAR no MOA?
+
  Facilita a distribuição – Você pode compartilhar um único arquivo .jar em vez de várias classes.
+ 
  Evita recompilação – O código já está compilado, pronto para execução.
+ 
  Permite extensões – Você pode criar um JAR personalizado (moaPIBIC.jar) para modificar o MOA sem alterar o original.
